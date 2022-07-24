@@ -1,0 +1,720 @@
+﻿++Solution 'BookEcommerceBE' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:BookEcommerceBE.sln
+++ClassLibrary_RepositoryDLL
+i:{00000000-0000-0000-0000-000000000000}:ClassLibrary_RepositoryDLL
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\bin\debug\net5.0\classlibrary_repositorydll.dll
+++Dependencies
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:>811
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1445
+++Entities
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\entities\
+++Repository
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\
+++Services
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\services\
+++Analyzers
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:analyzers
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:analyzers
+++Frameworks
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:frameworks
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:frameworks
+++Packages
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:packages
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:packages
+++Account.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\entities\account.cs
+++Author.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\entities\author.cs
+++Book.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\entities\book.cs
+++BookEcommerceContext.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\entities\bookecommercecontext.cs
+++Cart.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\entities\cart.cs
+++Category.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\entities\category.cs
+++Checkout.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\entities\checkout.cs
+++PaymentMethod.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\entities\paymentmethod.cs
+++Publisher.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\entities\publisher.cs
+++Review.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\entities\review.cs
+++Role.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\entities\role.cs
+++ShippingFee.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\entities\shippingfee.cs
+++_GeneralRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\_generalrepository.cs
+++AccountRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\accountrepository.cs
+++AuthorRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\authorrepository.cs
+++BookRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\bookrepository.cs
+++CartRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\cartrepository.cs
+++CategoryRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\categoryrepository.cs
+++CheckoutRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\checkoutrepository.cs
+++IAccountRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\iaccountrepository.cs
+++IAuthorRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\iauthorrepository.cs
+++IBookRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\ibookrepository.cs
+++ICartRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\icartrepository.cs
+++ICategoryRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\icategoryrepository.cs
+++ICheckoutRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\icheckoutrepository.cs
+++IPaymentMethodRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\ipaymentmethodrepository.cs
+++IPublisherRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\ipublisherrepository.cs
+++IReviewRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\ireviewrepository.cs
+++IRoleRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\irolerepository.cs
+++IShippingFeeRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\ishippingfeerepository.cs
+++PaymentMethodRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\paymentmethodrepository.cs
+++PublisherRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\publisherrepository.cs
+++ReviewRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\reviewrepository.cs
+++RoleRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\rolerepository.cs
+++ShippingFeeRepository.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\repository\shippingfeerepository.cs
+++IMenuService.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\services\imenuservice.cs
+++IProductService.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\services\iproductservice.cs
+++MenuService.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\services\menuservice.cs
+++ProductService.cs
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\services\productservice.cs
+++Microsoft.CodeAnalysis.Analyzers
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\users\tranm\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\users\tranm\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\users\tranm\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\users\tranm\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\users\tranm\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\users\tranm\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.15\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.NETCore.App
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:c:\bookecommerce\bookecommercebe-be01\classlibrary_repository\microsoft.netcore.app
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\microsoft.netcore.app
+++Confluent.Kafka (1.8.2)
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1493
+++Confluent.SchemaRegistry.Serdes (1.3.0)
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1486
+++DocumentFormat.OpenXml (2.16.0)
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1503
+++Microsoft.AspNet.WebApi.WebHost (5.2.8)
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1495
+++Microsoft.AspNet.WebPages (3.2.8)
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1496
+++Microsoft.AspNetCore.Routing (2.2.2)
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1487
+++Microsoft.EntityFrameworkCore (5.0.0)
+++Microsoft.EntityFrameworkCore.Design (5.0.15)
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:>1458
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1490
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.0)
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:>1457
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1489
+++Microsoft.EntityFrameworkCore.Tools (5.0.15)
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:>1465
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1497
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:>1467
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1499
+++MvcCodeRouting (1.3.0)
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1502
+++MvcCodeRouting.Web.Http (1.1.0)
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1504
+++MvcCodeRouting.Web.Http.WebHost (1.1.0)
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1492
+++NEST (7.17.2)
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1501
+++Newtonsoft.Json (13.0.1)
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1491
+++ServiceStack (6.1.0)
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1498
+++ServiceStack.Text (6.1.0)
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1500
+++System.Net.Http (4.3.4)
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1494
+++BookEcommerce_ASP.NETCore MVC
+i:{00000000-0000-0000-0000-000000000000}:BookEcommerce_ASP.NETCore MVC
+++Connected Services 
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1446
+++Properties
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\properties\
+++wwwroot
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\
+++Areas
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\
+++Admin
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\
+++Controllers
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\controllers\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\controllers\
+++HomeController.cs
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\controllers\homecontroller.cs
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\controllers\homecontroller.cs
+++Data
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\data\
+++Models
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\models\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\models\
+++Views
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\views\
+++Home
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\home\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\views\home\
+++Index.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\home\index.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\views\home\index.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\views\books\index.cshtml
+++Shared
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\shared\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\views\shared\
+++_AdminLayout.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\views\shared\_adminlayout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\shared\_validationscriptspartial.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\shared\error.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\_viewimports.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\_viewstart.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\views\_viewstart.cshtml
+++appsettings.json
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\appsettings.json
+++BookEcommerce_ASP.NETCore MVC.rar
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\bookecommerce_asp.netcore mvc.rar
+++Program.cs
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\program.cs
+++ScaffoldingReadMe.txt
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\scaffoldingreadme.txt
+++Startup.cs
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\startup.cs
+++Secrets.json (Local)
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1512
+++SQL Server Express LocalDB (Local) (BookEcommerce.)
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1513
+++Projects
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:projects
+++launchSettings.json
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\properties\launchsettings.json
+++serviceDependencies.json
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\properties\servicedependencies.json
+++serviceDependencies.local.json
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\properties\servicedependencies.local.json
+++css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\css\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\css\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\tempusdominus\css\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\css\
+++image
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\
+++js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\js\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\js\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\tempusdominus\js\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\
+++favicon.ico
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\favicon.ico
+++AccountRepositoryController.cs
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\controllers\accountrepositorycontroller.cs
+++AuthorRepositoryController.cs
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\controllers\authorrepositorycontroller.cs
+++BookRepositoryController.cs
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\controllers\bookrepositorycontroller.cs
+++CategoryRepositoryController.cs
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\controllers\categoryrepositorycontroller.cs
+++MenuController.cs
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\controllers\menucontroller.cs
+++ErrorViewModel.cs
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\models\errorviewmodel.cs
+++BookRepository
+++Microsoft.AspNetCore.Analyzers
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\microsoft.aspnetcore.app
+++Microsoft.EntityFrameworkCore (5.0.15)
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:>1488
+i:{32d9dff4-050c-4ef2-8eb1-7544d2849ba0}:>1514
+++img
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\img\
+++scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\
+++style.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\css\style.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\css\style.css
+++._Screen Shot 2022-05-20 at 12.22.35.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\._screen shot 2022-05-20 at 12.22.35.png
+++._Screen Shot 2022-05-20 at 12.31.36.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\._screen shot 2022-05-20 at 12.31.36.png
+++._Screen Shot 2022-05-20 at 12.31.50.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\._screen shot 2022-05-20 at 12.31.50.png
+++._Screen Shot 2022-05-20 at 12.32.33.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\._screen shot 2022-05-20 at 12.32.33.png
+++._Screen Shot 2022-05-20 at 12.32.41.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\._screen shot 2022-05-20 at 12.32.41.png
+++._Screen Shot 2022-05-20 at 12.32.58.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\._screen shot 2022-05-20 at 12.32.58.png
+++._Screen Shot 2022-05-20 at 12.33.28.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\._screen shot 2022-05-20 at 12.33.28.png
+++._Screen Shot 2022-05-20 at 12.33.40.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\._screen shot 2022-05-20 at 12.33.40.png
+++._Screen Shot 2022-05-20 at 12.33.51.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\._screen shot 2022-05-20 at 12.33.51.png
+++._Screen Shot 2022-05-20 at 12.34.25.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\._screen shot 2022-05-20 at 12.34.25.png
+++._Screen Shot 2022-05-20 at 12.34.35.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\._screen shot 2022-05-20 at 12.34.35.png
+++._Screen Shot 2022-05-20 at 12.35.04.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\._screen shot 2022-05-20 at 12.35.04.png
+++._Screen Shot 2022-05-20 at 12.36.15.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\._screen shot 2022-05-20 at 12.36.15.png
+++._Screen Shot 2022-05-20 at 12.36.38.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\._screen shot 2022-05-20 at 12.36.38.png
+++._Screen Shot 2022-05-20 at 12.36.53.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\._screen shot 2022-05-20 at 12.36.53.png
+++bestseller-1.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\bestseller-1.png
+++bestseller-2.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\bestseller-2.png
+++bestseller-3.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\bestseller-3.png
+++sachmoi-1.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\sachmoi-1.png
+++sachmoi-2.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\sachmoi-2.png
+++sachmoi-3.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\sachmoi-3.png
+++sachthieunhi-1.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\sachthieunhi-1.png
+++sachthieunhi-2.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\sachthieunhi-2.png
+++sachthieunhi-3.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\sachthieunhi-3.png
+++sachtienganh-1.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\sachtienganh-1.png
+++sachtienganh-2.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\sachtienganh-2.png
+++sachtienganh-3.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\sachtienganh-3.png
+++sachtiengviet-1.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\sachtiengviet-1.png
+++sachtiengviet-2.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\sachtiengviet-2.png
+++sachtiengviet-3.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\sachtiengviet-3.png
+++truyentrinhtham-1.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\truyentrinhtham-1.png
+++truyentrinhtham-2.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\truyentrinhtham-2.png
+++truyentrinhtham-3.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\image\truyentrinhtham-3.png
+++main.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\js\main.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\js\main.js
+++bootstrap
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\
+++easing
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\easing\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\easing\
+++jquery
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\jquery\
+++jquery-validation
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\jquery-validation-unobtrusive\
+++slick
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\slick\
+++GetAllBook.cshtml
+++Cart.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\home\cart.cshtml
+++Checkout.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\home\checkout.cshtml
+++Contact.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\home\contact.cshtml
+++Login.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\home\login.cshtml
+++MyAccount.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\home\myaccount.cshtml
+++Privacy.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\home\privacy.cshtml
+++Product.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\home\product.cshtml
+++ProductDetail.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\home\productdetail.cshtml
+++Register.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\home\register.cshtml
+++Wishlist.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\home\wishlist.cshtml
+++_Layout.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\views\shared\_layout.cshtml
+++bootstrap.min.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\css\bootstrap.min.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++testimonial-1.jpg
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\img\testimonial-1.jpg
+++testimonial-2.jpg
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\img\testimonial-2.jpg
+++user.jpg
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\img\user.jpg
+++chart
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\chart\
+++owlcarousel
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\owlcarousel\
+++tempusdominus
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\tempusdominus\
+++waypoints
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\waypoints\
+++bootstrap.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\bootstrap.scss
+++dist
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\jquery\dist\
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\license
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\owlcarousel\license
+++easing.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\easing\easing.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\easing\easing.js
+++easing.min.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\easing\easing.min.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\easing\easing.min.js
+++LICENSE.txt
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\jquery\license.txt
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++fonts
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\slick\fonts\
+++ajax-loader.gif
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\slick\ajax-loader.gif
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\owlcarousel\assets\ajax-loader.gif
+++config.rb
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\slick\config.rb
+++slick.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\slick\slick.css
+++slick.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\slick\slick.js
+++slick.less
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\slick\slick.less
+++slick.min.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\slick\slick.min.js
+++slick.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\slick\slick.scss
+++slick-theme.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\slick\slick-theme.css
+++slick-theme.less
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\slick\slick-theme.less
+++slick-theme.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\slick\slick-theme.scss
+++chart.min.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\chart\chart.min.js
+++assets
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\owlcarousel\assets\
+++owl.carousel.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\owlcarousel\owl.carousel.js
+++owl.carousel.min.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\owlcarousel\owl.carousel.min.js
+++links.php
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\waypoints\links.php
+++waypoints.min.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\waypoints\waypoints.min.js
+++jquery.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\jquery\dist\jquery.js
+++jquery.min.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\jquery\dist\jquery.min.js
+++jquery.min.map
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\jquery\dist\jquery.min.map
+++additional-methods.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++additional-methods.min.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.min.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++slick.eot
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\slick\fonts\slick.eot
+++slick.svg
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\slick\fonts\slick.svg
+++slick.ttf
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\slick\fonts\slick.ttf
+++slick.woff
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\slick\fonts\slick.woff
+++owl.carousel.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\owlcarousel\assets\owl.carousel.css
+++owl.carousel.min.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\owlcarousel\assets\owl.carousel.min.css
+++owl.theme.default.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\owlcarousel\assets\owl.theme.default.css
+++owl.theme.default.min.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\owlcarousel\assets\owl.theme.default.min.css
+++owl.theme.green.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\owlcarousel\assets\owl.theme.green.css
+++owl.theme.green.min.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\owlcarousel\assets\owl.theme.green.min.css
+++owl.video.play.png
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\owlcarousel\assets\owl.video.play.png
+++tempusdominus-bootstrap-4.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\tempusdominus\css\tempusdominus-bootstrap-4.css
+++tempusdominus-bootstrap-4.min.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\tempusdominus\css\tempusdominus-bootstrap-4.min.css
+++moment.min.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\tempusdominus\js\moment.min.js
+++moment-timezone.min.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\tempusdominus\js\moment-timezone.min.js
+++tempusdominus-bootstrap-4.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\tempusdominus\js\tempusdominus-bootstrap-4.js
+++tempusdominus-bootstrap-4.min.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\lib\tempusdominus\js\tempusdominus-bootstrap-4.min.js
+++forms
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\forms\
+++helpers
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\helpers\
+++mixins
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\
+++utilities
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\utilities\
+++vendor
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\vendor\
+++_accordion.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_accordion.scss
+++_alert.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_alert.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_alert.scss
+++_badge.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_badge.scss
+++_breadcrumb.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_breadcrumb.scss
+++_button-group.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_button-group.scss
+++_buttons.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_buttons.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_buttons.scss
+++_card.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_card.scss
+++_carousel.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_carousel.scss
+++_close.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_close.scss
+++_containers.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_containers.scss
+++_dropdown.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_dropdown.scss
+++_forms.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_forms.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_forms.scss
+++_functions.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_functions.scss
+++_grid.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_grid.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_grid.scss
+++_helpers.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_helpers.scss
+++_images.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_images.scss
+++_list-group.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_list-group.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_list-group.scss
+++_mixins.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_mixins.scss
+++_modal.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_modal.scss
+++_nav.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_nav.scss
+++_navbar.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_navbar.scss
+++_offcanvas.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_offcanvas.scss
+++_pagination.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_pagination.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_pagination.scss
+++_popover.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_popover.scss
+++_progress.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_progress.scss
+++_reboot.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_reboot.scss
+++_root.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_root.scss
+++_spinners.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_spinners.scss
+++_tables.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_tables.scss
+++_toasts.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_toasts.scss
+++_tooltip.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_tooltip.scss
+++_transitions.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_transitions.scss
+++_type.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_type.scss
+++_utilities.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_utilities.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_utilities.scss
+++_variables.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\_variables.scss
+++bootstrap-grid.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\bootstrap-grid.scss
+++bootstrap-reboot.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\bootstrap-reboot.scss
+++bootstrap-utilities.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\bootstrap-utilities.scss
+++bootstrap.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap.css.map
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css.map
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.bundle.js.map
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.bundle.min.js.map
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++bootstrap.js.map
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++bootstrap.min.js.map
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++_floating-labels.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\forms\_floating-labels.scss
+++_form-check.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\forms\_form-check.scss
+++_form-control.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\forms\_form-control.scss
+++_form-range.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\forms\_form-range.scss
+++_form-select.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\forms\_form-select.scss
+++_form-text.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\forms\_form-text.scss
+++_input-group.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\forms\_input-group.scss
+++_labels.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\forms\_labels.scss
+++_validation.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\forms\_validation.scss
+++_clearfix.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\helpers\_clearfix.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_clearfix.scss
+++_colored-links.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\helpers\_colored-links.scss
+++_position.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\helpers\_position.scss
+++_ratio.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\helpers\_ratio.scss
+++_stretched-link.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\helpers\_stretched-link.scss
+++_text-truncation.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\helpers\_text-truncation.scss
+++_visually-hidden.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\helpers\_visually-hidden.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_visually-hidden.scss
+++_border-radius.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_border-radius.scss
+++_box-shadow.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_box-shadow.scss
+++_breakpoints.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_breakpoints.scss
+++_caret.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_caret.scss
+++_color-scheme.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_color-scheme.scss
+++_container.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_container.scss
+++_deprecate.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_deprecate.scss
+++_gradients.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_gradients.scss
+++_image.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_image.scss
+++_lists.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_lists.scss
+++_reset-text.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_reset-text.scss
+++_resize.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_resize.scss
+++_table-variants.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_table-variants.scss
+++_text-truncate.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_text-truncate.scss
+++_transition.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\mixins\_transition.scss
+++_api.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\utilities\_api.scss
+++_rfs.scss
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\wwwroot\admin\scss\bootstrap\scss\vendor\_rfs.scss
+++BookRepositoryController.cshtml
+++AdminController.cs
+++BooksController.cs
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\controllers\bookscontroller.cs
+++Books
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\views\books\
+++AddBooks.cshtml
+i:{be9b4367-dd70-49e7-8dd3-8914423d01d8}:c:\bookecommerce\bookecommercebe-be01\bookecommerce_asp.netcore mvc\areas\admin\views\books\addbooks.cshtml

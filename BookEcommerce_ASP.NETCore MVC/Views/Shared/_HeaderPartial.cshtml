@@ -1,0 +1,21 @@
+﻿@using Microsoft.AspNetCore.Http
+
+ 
+
+<div class="navbar-nav ml-auto">
+                           
+            @if (Context.Session.GetString("username") == null)
+                    {
+                         <a class="nav-item nav-right" asp-area="" asp-controller="User" asp-action="Register">Đăng Ký</a>
+                         <a class="nav-item nav-right" asp-area="" asp-controller="User" asp-action="Login">Đăng Nhập</a>
+
+                    }
+                    else
+                    {
+                      <a class="nav-item nav-right" asp-controller="Home" asp-action="Index">@Context.Session.GetString("username")</a>
+                      <a class="nav-item nav-right" asp-controller="User" asp-action="Logout">Logout</a>
+                    }
+
+</div>
+
+

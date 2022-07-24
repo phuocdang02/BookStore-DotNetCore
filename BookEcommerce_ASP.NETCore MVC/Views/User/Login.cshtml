@@ -1,0 +1,52 @@
+﻿
+ @model ClassLibrary_RepositoryDLL.Models.LoginModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+ <div class="login">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-3" style="text-indent:80px;">    
+                        
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="login-form">
+                         <form asp-action="Login" asp-controller="User">
+                            <div asp-validation-summary="All" class="text-danger"></div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <h2><strong>Đăng Nhập</strong></h2>
+                                    <label asp-for="Username">Username</label>
+                                    <input asp-for="Username" class="form-control" type="text" placeholder="Username">
+                                    <span asp-validation-for="Username" class="text-danger"></span>
+                                </div>
+                                <div class="col-md-6" style="margin-top: 46px">
+                                    <label asp-for="Password">Password</label>
+                                    <input asp-for="Password" class="form-control" type="text" placeholder="Password">
+                                     <span asp-validation-for="Password" class="text-danger"></span>
+                                    </div>
+                                <div class="col-md-12">
+                                    <div class="custom-control custom-checkbox">
+                                        <label asp-for = "RememberMe"></label> 
+                                        <input asp-for = "RememberMe" /> 
+                                        <span asp-validation-for = "RememberMe"></span>
+                                    </div>
+                                </div>
+                             
+                                <div class="col-md-12">
+                                    <button type="submit" class="btn">Login</button>
+                                </div>
+                            </div>
+                          </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        @section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+

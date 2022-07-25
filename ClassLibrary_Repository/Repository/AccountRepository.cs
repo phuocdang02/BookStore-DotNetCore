@@ -37,7 +37,7 @@ namespace ClassLibrary_RepositoryDLL.Repository
         public bool checkLogin(string username, string password)
         {
             var inputData = from destination in _context.Accounts
-                            where destination.Username == username && destination.Password == password
+                            where destination.Username == username && destination.Password == password && destination.RoleId == 1
                             select destination;
             if (inputData.Any())
             {

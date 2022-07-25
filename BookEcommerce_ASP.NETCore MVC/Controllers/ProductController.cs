@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using ClassLibrary_RepositoryDLL.Models;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace BookEcommerce_ASP.NETCore_MVC.Controllers
 {
@@ -17,22 +18,14 @@ namespace BookEcommerce_ASP.NETCore_MVC.Controllers
         private readonly ILogger<ProductController> _logger;
         private readonly IBookRepository _repo;
         private readonly ICheckoutRepository _checkoutRepo;
-        private readonly ICartRepository _cart;
-        private readonly IAccountRepository _acc;
         private readonly BookEcommerceContext _context;
         public ProductController(ILogger<ProductController> logger,
             IBookRepository repo,
-            ICheckoutRepository checkoutRepo,
-            IAccountRepository acc,
-            ICartRepository cart,
-            BookEcommerceContext context)
+            ICheckoutRepository checkoutRepo)
         {
             _logger = logger;
             _repo = repo;
             _checkoutRepo = checkoutRepo;
-            _context = context;
-            _cart = cart;
-            _acc = acc;
         }
 
         public IActionResult Index()
@@ -40,14 +33,25 @@ namespace BookEcommerce_ASP.NETCore_MVC.Controllers
             return View();
         }
 
+        public IActionResult Search(string keyword)
+        {
+            var books = _repo.searchBook(keyword);
+
+            if (!String.IsNullOrEmpty(keyword))
+            {
+                return View(books.ToList());
+            }
+            return NoContent();
+        }
+
         //CART
         //  [Route("addcart/{id}")]
         public IActionResult AddToCart([FromRoute] int id)
         {
             Book book = _repo.getDetailBook(id);
-            var books = _context.Books
-                .Where(p => p.Id == id)
-                .FirstOrDefault();
+            //var books = _context.Books
+            //    .Where(p => p.Id == id)
+            //    .FirstOrDefault();
             if (book == null)
             {
                 return NotFound("Không tìm thấy sản phẩm");
@@ -145,10 +149,7 @@ namespace BookEcommerce_ASP.NETCore_MVC.Controllers
         }
 
         [Route("/checkout")]
-        //public IActionResult Checkout()
-        //{
-        //    return View();
-        //}
+        
         public IActionResult Checkout()
         {
             ViewBag.Username = HttpContext.Session.GetString("username");
@@ -179,8 +180,8 @@ namespace BookEcommerce_ASP.NETCore_MVC.Controllers
                 newcheckout.Receivernumber = ck.Receivernumber;
                 newcheckout.CartId = ck.CartId;
                 newcheckout.CartItemId = ck.CartItemId;
-                _context.Checkouts.Add(newcheckout);
-                _context.SaveChanges();
+                
+                _checkoutRepo.addCheckout(newcheckout);
 
                 ClearCart();
                 return RedirectToAction("Index", "Home");

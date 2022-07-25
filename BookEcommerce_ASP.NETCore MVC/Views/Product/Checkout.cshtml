@@ -2,82 +2,71 @@
 @inject ClassLibrary_RepositoryDLL.Services.IPaymentMethodService pmservice
 
 @{
-    ViewData["Tiltle"] = "Checkout";
-    Layout = "/Views/Shared/_Layout.cshtml";
- }
+	ViewData["Tiltle"] = "Checkout";
+	Layout = "/Views/Shared/_Layout.cshtml";
+}
 
- <!-- Checkout Start -->
-        <div class="checkout">
-            <div class="container-fluid"> 
-                 <form asp-action="ConfirmCheckout" asp-controller="Product">
-                <div class="row">
-                     
-                    <div class="col-lg-8">
-                        <div class="checkout-inner">
-                            <div class="billing-address">
-                                <h2>Thông Tin Thanh Toán</h2>
-                                <div class="row">
-                                     <div class="col-md-6">
-                                        <label asp-for="Username">Username: </label>
-                                        <input asp-for="Username" class="form-control" value="@ViewBag.Username">
-                                        <span asp-validation-for="Username" class="text-danger"></span>
-                                    </div>
-                                    @*
-                                        Thiếu địa chỉ nè
-                                        Vì trong Account không có district nên là tạo hẵn một cái shipping fee cho mọi trường hợp luôn em muốn để 10k, 15k,.... gì cũng đc
-                                    *@
-                                    <div class="col-md-6">
-                                        <label asp-for="PaymentId">Chọn Hình Thức Thanh Toán: </label>
-                                        @*
-                                            Làm theo format như này: 
-                                            label asp-for theo PaymentId nhưng hiện thị là tên hình thức thanh toán
-                                            khi chọn một hình thức thanh toán thì sẽ được hiểu là PaymentId tương ứng
-                                            dùng select option rồi tới @if
-                                            thêm một cái div chưa shippingFee nữa nha
-                                                    
-                                        *@
-                                        <input asp-for="PaymentId"class="form-control" type="number" placeholder="">
-                                        <span asp-validation-for="PaymentId" class="text-danger"></span>
-                                    </div>
+<!-- Checkout Start -->
+<div class="checkout">
+	<div class="container-fluid">
+		<form asp-action="ConfirmCheckout" asp-controller="Product">
+			<div class="row">
 
-                                    <div class="col-md-6">
-                                        <label asp-for="Depositornumber">Số Tài Khoản Người Nhận: </label>
-                                        <input asp-for="Depositornumber"class="form-control" type="text" placeholder="Số Tài Khoản Người Nhận">
-                                    </div>
-                                    <div class="col-md-6">
-                                        <label asp-for="Receivernumber">Số Tài Khoản Người Gửi: </label>
-                                        <input asp-for="Receivernumber" class="form-control" type="text" placeholder="Số Tài Khoản Người Gửi">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    </div>
-                     
-                    <div class="col-lg-4">
-                        <div class="checkout-inner">
-                            <div class="checkout-payment">
-                                <div class="payment-methods">
+				<div class="col-lg-8">
+					<div class="checkout-inner">
+						<div class="billing-address">
+							<h2>Thông Tin Thanh Toán</h2>
+							<div class="row">
+								<div class="col-md-6">
+									<label asp-for="Username">Username: </label>
+									<input asp-for="Username" class="form-control" value="@ViewBag.Username">
+									<span asp-validation-for="Username" class="text-danger"></span>
+								</div>
+								<div class="col-md-6">
+									<label asp-for="PaymentId">Chọn Hình Thức Thanh Toán: </label>
+									<select id="paymentid">
+										<option>--Choose--</option>
+										<option asp-for="PaymentId" value="1" class="form-control">Tiền mặt</option>
+										<option id="ChoosePM" asp-for="PaymentId" value="2" class="form-control">Chuyển khoản</option>
+										<span asp-validation-for="PaymentId" class="text-danger"></span>
+									</select>
+									@*<input asp-for="PaymentId" class="form-control" type="number" placeholder="">*@
+								</div>
 
-                                    <h1>Phương Thức Thanh Toán</h1>
-                                    @foreach(var item in pmservice.getAllPaymentMethod() as List<ClassLibrary_RepositoryDLL.Entities.PaymentMethod>)
-                                        {
-                                            <div class="payment-method">
-                                                <div class="custom-control custom-radio">
-                                                    <label>@item.Id @item.Paymentname</label>
-                                                </div>                  
-                                            </div>
-                                        }
-                                </div>
-                                <div class="checkout-btn">
-                                    <button type="submit">Đặt Hàng</button>
-                                </div>
-                            </div>
-                        </div>
-                </div>
-
-              </form>
-            </div>
-        </div>
-        <!-- Checkout End -->
+								<div class="col-md-6" id="pmchosen">
+									<label asp-for="Depositornumber">Số Tài Khoản Người Nhận: </label>
+									<input asp-for="Depositornumber" class="form-control" type="text" placeholder="Số Tài Khoản Người Nhận">
+								</div>
+								<div class="col-md-6" id="pmchosen">
+									<label asp-for="Receivernumber">Số Tài Khoản Người Gửi: </label>
+									<input asp-for="Receivernumber" class="form-control" type="text" placeholder="Số Tài Khoản Người Gửi">
+								</div>
+								<div class="checkout-btn">
+									<button type="submit">Đặt Hàng</button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			@*<div class="col-lg-4">
+			<div class="checkout-inner">
+			<div class="checkout-payment">
+			<div class="payment-methods">
+			<h1>Phương Thức Thanh Toán</h1>
+			@foreach (var item in pmservice.getAllPaymentMethod() as List<ClassLibrary_RepositoryDLL.Entities.PaymentMethod>)
+			{
+			<div class="payment-method">
+			<div class="custom-control custom-radio">
+			<label>@item.Id @item.Paymentname</label>
+			</div>
+			</div>
+			}
+			</div>
+			</div>
+			</div>
+			</div>*@
+		</form>
+	</div>
+</div>
+<!-- Checkout End -->

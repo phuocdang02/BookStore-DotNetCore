@@ -16,6 +16,12 @@ namespace BookEcommerce_ASP.NETCore_MVC.Controllers.Api
         {
             _repository = repository;
         }
+        [HttpGet]
+        public ActionResult<Book> search(string keyword)
+        {
+            List<Book> books = _repository.searchBook(keyword);
+            return Ok(books);
+        }
 
         [HttpGet]
         public ActionResult<Book> getAllBooks()

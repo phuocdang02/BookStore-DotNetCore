@@ -643,3 +643,219 @@ C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\Năm_Cuối_2022\M
 C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\Năm_Cuối_2022\Major Project A (ASP.NET Core)\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.pdb
 C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\Năm_Cuối_2022\Major Project A (ASP.NET Core)\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.genruntimeconfig.cache
 C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\Năm_Cuối_2022\Major Project A (ASP.NET Core)\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\ref\BookEcommerce_ASP.NETCore MVC.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\appsettings.json
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.exe
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.deps.json
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.runtimeconfig.json
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.runtimeconfig.dev.json
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.pdb
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.Views.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.Views.pdb
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Confluent.Apache.Avro.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Confluent.Kafka.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Confluent.SchemaRegistry.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Confluent.SchemaRegistry.Serdes.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Elasticsearch.Net.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\FluentAssertions.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Humanizer.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\log4net.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Nest.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ServiceStack.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ServiceStack.Client.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ServiceStack.Common.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ServiceStack.Interfaces.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ServiceStack.Text.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\System.Private.ServiceModel.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x64\native\zstd.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x86\native\libcrypto-1_1.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x86\native\libssl-1_1.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x86\native\zstd.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ClassLibrary_RepositoryDLL.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\bin\Debug\net5.0\ClassLibrary_RepositoryDLL.pdb
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.csproj.AssemblyReference.cache
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.AssemblyInfoInputs.cache
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.AssemblyInfo.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.csproj.CoreCompileInputs.cache
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.RazorAssemblyInfo.cache
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.RazorAssemblyInfo.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\scopedcss\bundle\BookEcommerce_ASP.NETCore MVC.styles.css
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\staticwebassets\BookEcommerce_ASP.NETCore MVC.StaticWebAssets.Manifest.cache
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.TagHelpers.input.cache
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.TagHelpers.output.cache
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.RazorCoreGenerate.cache
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\Home\MyAccount.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\Home\Product.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\Home\ProductDetail.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\Product\Cart.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\Product\Checkout.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\Shared\_CartPartial.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\Shared\_HeaderPartial.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\User\LoginFail.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\User\RegisterSuccess.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.RazorTargetAssemblyInfo.cache
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.RazorTargetAssemblyInfo.cs
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.Views.pdb
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.csproj.CopyComplete
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\refint\BookEcommerce_ASP.NETCore MVC.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.pdb
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\BookEcommerce_ASP.NETCore MVC.genruntimeconfig.cache
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\ref\BookEcommerce_ASP.NETCore MVC.dll
+C:\Users\DANG.HP2224\Desktop\Hành trình đi học của Mô\BookStore_MonTran\BookEcommerceBE-01\BookEcommerce_ASP.NETCore MVC\obj\Debug\net5.0\Razor\Views\Product\Search.cshtml.g.cs

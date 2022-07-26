@@ -1,0 +1,183 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DANG.HP2224\\Desktop\\Hành trình đi học của Mô\\Năm_Cuối_2022\\Major Project A (ASP.NET Core)\\Major Project (edit allowed)\\BookStore\\BookEccommerce_Admin\\BookEccommerce_Admin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DANG.HP2224\\Desktop\\Hành trình đi học của Mô\\Năm_Cuối_2022\\Major Project A (ASP.NET Core)\\Major Project (edit allowed)\\BookStore\\BookEccommerce_Admin\\BookEccommerce_Admin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DANG.HP2224\\Desktop\\Hành trình đi học của Mô\\Năm_Cuối_2022\\Major Project A (ASP.NET Core)\\Major Project (edit allowed)\\BookStore\\BookEccommerce_Admin\\BookEccommerce_Admin.csproj",
+        "projectName": "BookEccommerce_Admin",
+        "projectPath": "C:\\Users\\DANG.HP2224\\Desktop\\Hành trình đi học của Mô\\Năm_Cuối_2022\\Major Project A (ASP.NET Core)\\Major Project (edit allowed)\\BookStore\\BookEccommerce_Admin\\BookEccommerce_Admin.csproj",
+        "packagesPath": "C:\\Users\\DANG.HP2224\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DANG.HP2224\\Desktop\\Hành trình đi học của Mô\\Năm_Cuối_2022\\Major Project A (ASP.NET Core)\\Major Project (edit allowed)\\BookStore\\BookEccommerce_Admin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DANG.HP2224\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\DANG.HP2224\\Desktop\\Hành trình đi học của Mô\\Năm_Cuối_2022\\Major Project A (ASP.NET Core)\\Major Project (edit allowed)\\BookStore\\ClassLibrary_Repository\\ClassLibrary_RepositoryDLL.csproj": {
+                "projectPath": "C:\\Users\\DANG.HP2224\\Desktop\\Hành trình đi học của Mô\\Năm_Cuối_2022\\Major Project A (ASP.NET Core)\\Major Project (edit allowed)\\BookStore\\ClassLibrary_Repository\\ClassLibrary_RepositoryDLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DANG.HP2224\\Desktop\\Hành trình đi học của Mô\\Năm_Cuối_2022\\Major Project A (ASP.NET Core)\\Major Project (edit allowed)\\BookStore\\ClassLibrary_Repository\\ClassLibrary_RepositoryDLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DANG.HP2224\\Desktop\\Hành trình đi học của Mô\\Năm_Cuối_2022\\Major Project A (ASP.NET Core)\\Major Project (edit allowed)\\BookStore\\ClassLibrary_Repository\\ClassLibrary_RepositoryDLL.csproj",
+        "projectName": "ClassLibrary_RepositoryDLL",
+        "projectPath": "C:\\Users\\DANG.HP2224\\Desktop\\Hành trình đi học của Mô\\Năm_Cuối_2022\\Major Project A (ASP.NET Core)\\Major Project (edit allowed)\\BookStore\\ClassLibrary_Repository\\ClassLibrary_RepositoryDLL.csproj",
+        "packagesPath": "C:\\Users\\DANG.HP2224\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DANG.HP2224\\Desktop\\Hành trình đi học của Mô\\Năm_Cuối_2022\\Major Project A (ASP.NET Core)\\Major Project (edit allowed)\\BookStore\\ClassLibrary_Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DANG.HP2224\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

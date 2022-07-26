@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookEcommerce_ASP.NETCore M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary_RepositoryDLL", "ClassLibrary_Repository\ClassLibrary_RepositoryDLL.csproj", "{096ABF5A-C4A2-4A6B-99A0-09CB669E90B7}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookEccommerce_Admin", "..\..\Năm_Cuối_2022\Major Project A (ASP.NET Core)\Major Project (edit allowed)\BookStore\BookEccommerce_Admin\BookEccommerce_Admin.csproj", "{D61281E7-0A73-4AA3-B689-A4F0BA50F1AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{096ABF5A-C4A2-4A6B-99A0-09CB669E90B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{096ABF5A-C4A2-4A6B-99A0-09CB669E90B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{096ABF5A-C4A2-4A6B-99A0-09CB669E90B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61281E7-0A73-4AA3-B689-A4F0BA50F1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61281E7-0A73-4AA3-B689-A4F0BA50F1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61281E7-0A73-4AA3-B689-A4F0BA50F1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61281E7-0A73-4AA3-B689-A4F0BA50F1AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
